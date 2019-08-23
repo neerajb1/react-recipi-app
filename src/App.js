@@ -8,6 +8,7 @@ import Recipi from "./pages/Recipi";
 import SingleRecipi from "./pages/SingleRecipi";
 import Default from "./pages/Default";
 import Navbar from "./components/Navbar";
+
 import { BrowserRouter as Router, Route, Link, Switch } from "react-router-dom";
 
 function App() {
